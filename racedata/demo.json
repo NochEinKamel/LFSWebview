@@ -1,0 +1,87 @@
+{
+	"Info" : {
+		"Laps" : 13,
+		"NumP" : 20,
+		"Track" : "AS7",
+		"Weather" : 0,
+		"Wind" : 0,
+		"Flags" : 35
+	},
+	"Player" : {
+		"31" : {
+			"Name" : "Kamel 1",
+			"Car" : "MRT"
+		},
+		"35" : {
+			"Name" : "Kamel 2",
+			"Car" : "MRT"
+		},
+		"21" : {
+			"Name" : "Kamel 2",
+			"Car" : "MRT"
+		},
+		"38" : {
+			"Name" : "Kamel 2",
+			"Car" : "MRT"
+		},
+		"14" : {
+			"Name" : "Kamel 2",
+			"Car" : "MRT"
+		},
+		"18" : {
+			"Name" : "Kamel 2",
+			"Car" : "MRT"
+		},
+		"24" : {
+			"Name" : "Kamel 2",
+			"Car" : "MRT"
+		}
+	},
+	"MCI" : {
+		"7" : {
+			"Node"    :500,
+			"Lap"     : 14,
+			"PLID"    : 7,
+			"Position"        : 1,
+			"Info"    : 64,
+			"Sp3"     : 0,
+			"X"       : 7421594,
+			"Y"       : 6088306,
+			"Z"       : 251765,
+			"Speed"   : 10906,
+			"Direction"      : 3521,
+			"Heading" : 3617,
+			"AngVel"  : 116
+		},
+		"23" : {
+			"Node"    : 413,
+			"Lap"     : 12,
+			"PLID"    : 23,
+			"Position"        : 11,
+			"Info"    : 1,
+			"Sp3"     : 0,
+			"X"       : 44006088,
+			"Y"       : -28303813,
+			"Z"       : 961007,
+			"Speed"   : 11841,
+			"Direction"       : 11294,
+			"Heading" : 11279,
+			"AngVel"  : 27
+		},
+		"5" : {
+			"Node"    : 175,
+			"Lap"     : 14,
+			"PLID"    : 5,
+			"Position"        : 2,
+			"Info"    : 0,
+			"Sp3"     : 0,
+			"X"       : 26269758,
+			"Y"       : -29982350,
+			"Z"       : 935645,
+			"Speed"   : 12154,
+			"Direction"       : 31542,
+			"Heading" : 30891,
+			"AngVel"  : -341
+		}
+	}
+}

@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+header {
+	display: none;
+}
+#container {
+	width: 950px;
+	margin: auto;
+}
+
+body {
+	font-family: 'Droid Sans Mono', serif;
+	font-size: 28px;
+	font-style: normal;
+	font-weight: 400;
+	text-shadow: none;
+	text-decoration: none;
+	text-transform: none;
+	letter-spacing: 0em;
+	word-spacing: 0.2em;
+	line-height: 1em;
+}

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>JS LFS Viewe</title>
+	<meta name="author" content="GeForz">
+ 
+	<!-- Mobile Viewport Fix -->
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+ 
+ 
+	<!-- Place favicon.ico and apple-touch-icon.png in the root of your domain and delete these references -->
+	<!--
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	-->
+ 
+	<!-- WebFont -->
+	<link  href="//fonts.googleapis.com/css?family=Droid+Sans+Mono:regular" rel="stylesheet" type="text/css" >
+	<!-- CSS : implied media="all" -->
+	<link rel="stylesheet" href="css/style.css?v=1">
+ 
+	<!-- For the less-enabled mobile browsers like Opera Mini -->
+	<!-- <link rel="stylesheet" media="handheld" href="css/handheld.css?v=1"> -->
+</head>
+ 
+<body>
+ 
+	<div id="container">
+		<header>
+			<h1>LFS Live Monitor</h1>
+			<section id="track">Track: <span id="trackName">AS7</span></section>
+			<section id="raceType">Race</section>
+		</header>
+		
+		<div id="main">
+			<canvas id="mainCanvas" width="800" height="550" />
+		</div>
+	</div>
+ 
+ 
+	<!-- Javascript at the bottom for fast page loading -->
+ 
+	<!-- Grab Google CDN's jQuery. fall back to local if necessary -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+	<script type="text/javascript" src="js/Polygon.js"></script>
+	<script type="text/javascript" src="js/TrackMap.js"></script>
+	<script type="text/javascript" src="js/LFSWebViewer.js"></script>
+</body>
+</html>
